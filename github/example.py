@@ -18,3 +18,5 @@ for customer in starbucks:
     # for 다음에는 넣고자 하는것  다음에는 넣고자하는것의 범위  그래서 format 이후에는 대상
     # for 다음123123123~~~~~~~~~
 
+    print ("2nd feature")
+    
